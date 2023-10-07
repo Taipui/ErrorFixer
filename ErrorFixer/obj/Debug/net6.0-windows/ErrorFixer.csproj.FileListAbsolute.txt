@@ -1,0 +1,17 @@
+C:\Users\taipu\source\repos\ErrorFixer\ErrorFixer\bin\Debug\net6.0-windows\ErrorFixer.exe
+C:\Users\taipu\source\repos\ErrorFixer\ErrorFixer\bin\Debug\net6.0-windows\ErrorFixer.deps.json
+C:\Users\taipu\source\repos\ErrorFixer\ErrorFixer\bin\Debug\net6.0-windows\ErrorFixer.runtimeconfig.json
+C:\Users\taipu\source\repos\ErrorFixer\ErrorFixer\bin\Debug\net6.0-windows\ErrorFixer.dll
+C:\Users\taipu\source\repos\ErrorFixer\ErrorFixer\bin\Debug\net6.0-windows\ErrorFixer.pdb
+C:\Users\taipu\source\repos\ErrorFixer\ErrorFixer\obj\Debug\net6.0-windows\ErrorFixer.csproj.AssemblyReference.cache
+C:\Users\taipu\source\repos\ErrorFixer\ErrorFixer\obj\Debug\net6.0-windows\ErrorFixer.Form1.resources
+C:\Users\taipu\source\repos\ErrorFixer\ErrorFixer\obj\Debug\net6.0-windows\ErrorFixer.csproj.GenerateResource.cache
+C:\Users\taipu\source\repos\ErrorFixer\ErrorFixer\obj\Debug\net6.0-windows\ErrorFixer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\taipu\source\repos\ErrorFixer\ErrorFixer\obj\Debug\net6.0-windows\ErrorFixer.AssemblyInfoInputs.cache
+C:\Users\taipu\source\repos\ErrorFixer\ErrorFixer\obj\Debug\net6.0-windows\ErrorFixer.AssemblyInfo.cs
+C:\Users\taipu\source\repos\ErrorFixer\ErrorFixer\obj\Debug\net6.0-windows\ErrorFixer.csproj.CoreCompileInputs.cache
+C:\Users\taipu\source\repos\ErrorFixer\ErrorFixer\obj\Debug\net6.0-windows\ErrorFixer.dll
+C:\Users\taipu\source\repos\ErrorFixer\ErrorFixer\obj\Debug\net6.0-windows\refint\ErrorFixer.dll
+C:\Users\taipu\source\repos\ErrorFixer\ErrorFixer\obj\Debug\net6.0-windows\ErrorFixer.pdb
+C:\Users\taipu\source\repos\ErrorFixer\ErrorFixer\obj\Debug\net6.0-windows\ErrorFixer.genruntimeconfig.cache
+C:\Users\taipu\source\repos\ErrorFixer\ErrorFixer\obj\Debug\net6.0-windows\ref\ErrorFixer.dll
