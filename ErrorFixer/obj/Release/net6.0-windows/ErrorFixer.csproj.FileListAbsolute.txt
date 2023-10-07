@@ -32,3 +32,5 @@ F:\projects\vs\ErrorFixer\ErrorFixer\obj\Release\net6.0-windows\refint\ErrorFixe
 F:\projects\vs\ErrorFixer\ErrorFixer\obj\Release\net6.0-windows\ErrorFixer.pdb
 F:\projects\vs\ErrorFixer\ErrorFixer\obj\Release\net6.0-windows\ErrorFixer.genruntimeconfig.cache
 F:\projects\vs\ErrorFixer\ErrorFixer\obj\Release\net6.0-windows\ref\ErrorFixer.dll
+F:\projects\vs\ErrorFixer\ErrorFixer\obj\Release\net6.0-windows\ErrorFixer.OptionForm.resources
+F:\projects\vs\ErrorFixer\ErrorFixer\bin\Release\net6.0-windows\ErrorFixer.dll.config

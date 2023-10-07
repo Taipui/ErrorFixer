@@ -33,6 +33,7 @@
             FolderSelectionButton = new Button();
             label1 = new Label();
             PathLabel = new Label();
+            OptionButton = new Button();
             SuspendLayout();
             // 
             // ProcessButton
@@ -80,18 +81,29 @@
             PathLabel.Size = new Size(0, 25);
             PathLabel.TabIndex = 4;
             // 
+            // OptionButton
+            // 
+            OptionButton.Location = new Point(248, 102);
+            OptionButton.Name = "OptionButton";
+            OptionButton.Size = new Size(112, 34);
+            OptionButton.TabIndex = 5;
+            OptionButton.Text = "設定";
+            OptionButton.UseVisualStyleBackColor = true;
+            OptionButton.Click += OptionButton_Click;
+            // 
             // Form1
             // 
             AutoScaleDimensions = new SizeF(10F, 25F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(372, 174);
+            Controls.Add(OptionButton);
             Controls.Add(PathLabel);
             Controls.Add(label1);
             Controls.Add(FolderSelectionButton);
             Controls.Add(MessageLabel);
             Controls.Add(ProcessButton);
             Name = "Form1";
-            Text = "エラー修復ツール";
+            Text = "エラー修復ツール v1.1.0";
             Load += Form1_Load;
             ResumeLayout(false);
             PerformLayout();
@@ -104,5 +116,6 @@
         private Button FolderSelectionButton;
         private Label label1;
         private Label PathLabel;
+        private Button OptionButton;
     }
 }
